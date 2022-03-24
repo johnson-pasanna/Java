@@ -22,6 +22,6 @@ public class sum {
 
 }
 
-
+//pass the values of numbers when you are calling the method  
 
 
