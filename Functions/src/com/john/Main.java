@@ -3,9 +3,14 @@ package com.john;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        public static void main(String[] args){
+	// write your code her
+            int a = 10;
+            int b = 20;
 
+            int temp =a;
+            a =b;
+            b=temp;
+
+            System.out.println(a + "" +b );
         }
     }
-}
